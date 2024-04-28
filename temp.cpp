@@ -21,7 +21,7 @@ return 100*(1-J);
 
 int main(){
 
-for(int t=0; t<=100;t++){
+for(int t=0; t<=10;t++){
     //cout<<t<<"  "<<
      T(t);
 }
